@@ -14,7 +14,7 @@ Input:
 
 Output:
 
-- simple interest = p _ t _ r
+- simple interest = p * t * r
 
 ### Footer
 
